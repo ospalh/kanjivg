@@ -62,7 +62,7 @@ kvg:type CDATA #IMPLIED >
 		</g>
 	</g>
 	<g id="kvg:09f62-g7" kvg:element="令" kvg:position="right" kvg:phon="令">
-		<g id="kvg:09f62-g8" kvg:element="人" kvg:position="top">
+		<g id="kvg:09f62-g8" kvg:element="𠆢" kvg:variant="true" kvg:original="人" kvg:position="top">
 			<path id="kvg:09f62-s13" kvg:type="㇒" d="M73.24,15.25c0.26,1,0.24,1.82-0.12,3.06c-2.25,7.94-7.88,23.31-17.38,33.32"/>
 			<path id="kvg:09f62-s14" kvg:type="㇏" d="M73.38,21.62c3.51,4.4,12.52,14.98,17.88,21.49c1.64,1.99,3.52,3.86,5.49,5.53"/>
 		</g>

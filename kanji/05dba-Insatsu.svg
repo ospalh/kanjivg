@@ -44,7 +44,7 @@ kvg:type CDATA #IMPLIED >
 	</g>
 	<g id="kvg:05dba-Insatsu-g2" kvg:element="領" kvg:position="bottom">
 		<g id="kvg:05dba-Insatsu-g3" kvg:element="令" kvg:position="left">
-			<g id="kvg:05dba-Insatsu-g4" kvg:element="人" kvg:position="top">
+			<g id="kvg:05dba-Insatsu-g4" kvg:element="𠆢" kvg:variant="true" kvg:original="人" kvg:position="top">
 				<path id="kvg:05dba-Insatsu-s4" kvg:type="㇒" d="M32.5,35.32c0.13,1.47-0.11,2.71-0.65,4.1c-2.08,5.36-8.21,13.8-18.33,22.63"/>
 				<path id="kvg:05dba-Insatsu-s5" kvg:type="㇔/㇏" d="M35.5,40.03c5,2.22,10.56,6.25,13.42,10.62"/>
 			</g>

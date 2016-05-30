@@ -54,7 +54,7 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:06faa-Insatsu-s11" kvg:type="㇔" d="M73.19,41.28c4.19,1.97,8.19,4.85,10.54,7.99"/>
 		</g>
 		<g id="kvg:06faa-Insatsu-g4" kvg:element="令" kvg:position="bottom">
-			<g id="kvg:06faa-Insatsu-g5" kvg:element="人" kvg:position="top">
+			<g id="kvg:06faa-Insatsu-g5" kvg:element="𠆢" kvg:variant="true" kvg:original="人" kvg:position="top">
 				<path id="kvg:06faa-Insatsu-s12" kvg:type="㇒" d="M62.63,49.12c-0.01,1.25-0.6,2.72-1.32,3.55C56.38,58.38,46.12,68,30.5,74.62"/>
 				<path id="kvg:06faa-Insatsu-s13" kvg:type="㇏" d="M63.73,54.04c5.52,3.59,15.56,10.67,23.09,14.93C89.75,70.62,92,71.62,96,72.9"/>
 			</g>

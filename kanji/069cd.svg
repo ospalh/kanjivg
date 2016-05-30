@@ -44,7 +44,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:069cd-s4" kvg:type="㇔/㇏" d="M32.22,49.65c2.53,1.81,6.03,6.48,7.66,10.39"/>
 	</g>
 	<g id="kvg:069cd-g2" kvg:element="倉" kvg:position="right">
-		<g id="kvg:069cd-g3" kvg:element="人" kvg:position="top">
+		<g id="kvg:069cd-g3" kvg:element="𠆢" kvg:variant="true" kvg:original="人" kvg:position="top">
 			<path id="kvg:069cd-s5" kvg:type="㇒" d="M64.46,13c0.07,0.82-0.08,2.23-0.63,3.31C59.5,24.88,53.38,35.88,40.5,47.75"/>
 			<path id="kvg:069cd-s6" kvg:type="㇏" d="M65.75,16.5c3.26,4,13.62,14,20.47,20.03c2.71,2.39,5.35,4.77,8.53,6.47"/>
 		</g>

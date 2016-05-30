@@ -50,7 +50,7 @@ kvg:type CDATA #IMPLIED >
 		</g>
 	</g>
 	<g id="kvg:07c65-Kaisho-g4" kvg:element="龠" kvg:position="bottom">
-		<g id="kvg:07c65-Kaisho-g5" kvg:element="人" kvg:position="top">
+		<g id="kvg:07c65-Kaisho-g5" kvg:element="𠆢" kvg:variant="true" kvg:original="人" kvg:position="top">
 			<g id="kvg:07c65-Kaisho-g6" kvg:element="丿">
 				<path id="kvg:07c65-Kaisho-s7" kvg:type="㇒" d="M52,25.5c0.11,0.67,0.42,1.81-0.21,2.68C47.22,34.52,33.88,45.46,13,53.83"/>
 			</g>

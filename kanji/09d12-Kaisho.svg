@@ -38,7 +38,7 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_09d12-Kaisho" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:09d12-Kaisho" kvg:element="鴒">
 	<g id="kvg:09d12-Kaisho-g1" kvg:element="令" kvg:position="left">
-		<g id="kvg:09d12-Kaisho-g2" kvg:element="人" kvg:position="top">
+		<g id="kvg:09d12-Kaisho-g2" kvg:element="𠆢" kvg:variant="true" kvg:original="人" kvg:position="top">
 			<path id="kvg:09d12-Kaisho-s1" kvg:type="㇒" d="M33.15,13c0.07,0.95,0.3,2.5-0.14,3.83c-2.76,8.4-11.51,25.56-21.76,35.76"/>
 			<path id="kvg:09d12-Kaisho-s2" kvg:type="㇔/㇏" d="M32.67,20.04c7.64,2.9,17.07,12.28,19.14,18.05"/>
 		</g>

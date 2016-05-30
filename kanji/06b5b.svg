@@ -38,7 +38,7 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_06b5b" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:06b5b" kvg:element="歛">
 	<g id="kvg:06b5b-g1" kvg:element="僉" kvg:position="left">
-		<g id="kvg:06b5b-g2" kvg:element="人" kvg:position="top">
+		<g id="kvg:06b5b-g2" kvg:element="𠆢" kvg:variant="true" kvg:original="人" kvg:position="top">
 			<path id="kvg:06b5b-s1" kvg:type="㇒" d="M34.5,12c0.06,0.85,0.3,2.27-0.13,3.41C31.64,22.64,23.92,37.83,11,48.04"/>
 			<path id="kvg:06b5b-s2" kvg:type="㇏" d="M34.42,19.79c7.6,3.6,14.44,9.15,18.17,16.07"/>
 		</g>

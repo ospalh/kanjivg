@@ -49,7 +49,7 @@ kvg:type CDATA #IMPLIED >
 		</g>
 	</g>
 	<g id="kvg:08ad6-Kaisho-g3" kvg:element="侖" kvg:position="right">
-		<g id="kvg:08ad6-Kaisho-g4" kvg:element="人" kvg:position="top">
+		<g id="kvg:08ad6-Kaisho-g4" kvg:element="𠆢" kvg:variant="true" kvg:original="人" kvg:position="top">
 			<path id="kvg:08ad6-Kaisho-s8" kvg:type="㇒" d="M64.57,13.65c0.07,0.9,0.15,2.34-0.14,3.64c-1.7,7.68-10.29,23.89-24.2,35.34"/>
 			<path id="kvg:08ad6-Kaisho-s9" kvg:type="㇏" d="M65.37,17.88c5.41,4.58,22.74,22.17,27.31,25.98c1.55,1.29,3.54,1.84,5.09,2.21"/>
 		</g>

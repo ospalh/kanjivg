@@ -44,7 +44,7 @@ kvg:type CDATA #IMPLIED >
 	</g>
 	<g id="kvg:05538-g2" kvg:element="念" kvg:position="right">
 		<g id="kvg:05538-g3" kvg:element="今" kvg:position="top">
-			<g id="kvg:05538-g4" kvg:element="人" kvg:position="top">
+			<g id="kvg:05538-g4" kvg:element="𠆢" kvg:variant="true" kvg:original="人" kvg:position="top">
 				<path id="kvg:05538-s4" kvg:type="㇒" d="M62.42,12.25c0.07,0.85,0.24,2.22-0.13,3.4c-2.63,8.19-10.42,21.48-23.2,32.5"/>
 				<path id="kvg:05538-s5" kvg:type="㇏" d="M62.99,16.35c4.21,5.35,22.36,22.8,27,26.72c1.58,1.33,3.6,1.9,5.17,2.27"/>
 			</g>
